@@ -30,3 +30,5 @@ error-screenshots
 **/frontend/generated
 **/frontend/index.html
 dev-bundle
+
+!**/vaadin-grid-flow-integration-tests/package.json
